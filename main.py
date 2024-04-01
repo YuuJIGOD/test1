@@ -1,3 +1,5 @@
 print("hello")
 print('Mong')
 print('hi')
+print("Yes")
+print("No")
